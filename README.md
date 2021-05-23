@@ -6,12 +6,12 @@ Utilize JavaScript, HTML, and CSS to create a website that allows a user to inpu
 This website contains an extensive list of UFO sightings throughout the country. Through the use of JavaScript I was able to construct functions that 
 enable the user to narrow their search for analyzing UFO sightings. Below is a snapshot reflecting the code behind the Filter Search feature within the website.
 
-![](/static/images/.png ".png")
+![Table Filtering Building](/static/images/Table_Filtering_Building.png "Table_Filtering_Building.png")
 
 From the user's perspective, below is the search section of the website. The data can be filtered in five separate ways. Additionally, they can be used in conjunction with 
 eachother in order to slice the data even further.
 
-![](/static/images/.png ".png")
+![Site Filtering](/static/images/Site_Filtering.png "Site_Filtering.png")
 
 ## Summary
 
